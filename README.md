@@ -10,7 +10,7 @@ En interaktiv webbaserad app för att stödja lärande och undervisning. Appen �
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/ditt-användarnamn/pedagogisk-app.git
+git clone https://github.com/ayoshi-pixel/pedagogisk-app.git
 cd pedagogisk-app
 npm install
 npm start
